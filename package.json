@@ -1,0 +1,27 @@
+{
+  "name": "sparkasse-csv-transform",
+  "version": "1.0.0",
+  "description": "Transforms an exported Sparkasse CSV file.",
+  "author": {
+    "name": "Johannes Hillert",
+    "email": "johannes.hillert@infokin.org",
+    "url": "https://www.infokin.org"
+  },
+  "license": "MIT",
+  "keywords": [
+    "csv",
+    "transform"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/clovergaze/sparkasse-csv-transform"
+  },
+  "private": true,
+  "main": "index.js",
+  "dependencies": {
+    "csv": "^5.5.0"
+  },
+  "devDependencies": {
+    "@types/node": "^14.14.37"
+  }
+}
