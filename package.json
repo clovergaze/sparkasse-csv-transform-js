@@ -4,7 +4,7 @@
   "description": "Transforms an exported Sparkasse CSV file.",
   "author": {
     "name": "Johannes Hillert",
-    "email": "johannes.hillert@infokin.org",
+    "email": "npm@infokin.org",
     "url": "https://www.infokin.org"
   },
   "license": "MIT",
