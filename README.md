@@ -10,8 +10,9 @@ node index.js <CSV file>
 
 ## Bugs & Issues
 
-Something is not working as intended? Please report bugs or issues on
-the [corresponding GitHub page](https://github.com/clovergaze/sparkasse-csv-transform-js/issues).
+If you encounter any issues or bugs, we would appreciate it if you could report them on
+the [corresponding GitHub page](https://github.com/clovergaze/sparkasse-csv-transform-js/issues). Thank you for your
+help in improving this project.
 
 ## Author
 
