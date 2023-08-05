@@ -1,5 +1,5 @@
 {
-  "name": "sparkasse-csv-transform",
+  "name": "sparkasse-csv-transform-js",
   "version": "1.0.0",
   "description": "Transforms an exported Sparkasse CSV file.",
   "author": {
@@ -14,7 +14,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/clovergaze/sparkasse-csv-transform"
+    "url": "https://github.com/clovergaze/sparkasse-csv-transform-js"
   },
   "private": true,
   "main": "index.js",

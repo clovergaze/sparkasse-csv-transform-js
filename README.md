@@ -1,4 +1,4 @@
-# Sparkasse CSV Transform
+# Sparkasse CSV Transform (JS)
 
 Transforms an exported Sparkasse CSV file.
 
@@ -11,7 +11,7 @@ node index.js <CSV file>
 ## Bugs & Issues
 
 Something is not working as intended? Please report bugs or issues on
-the [corresponding GitHub page](https://github.com/clovergaze/sparkasse-csv-transform/issues).
+the [corresponding GitHub page](https://github.com/clovergaze/sparkasse-csv-transform-js/issues).
 
 ## Author
 
